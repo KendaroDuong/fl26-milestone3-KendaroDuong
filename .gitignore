@@ -1,0 +1,9 @@
+build/
+*.o
+*.obj
+*.exe
+*.out
+.vscode/
+.DS_Store
+M3_Reference_Package/
+*.pdf
